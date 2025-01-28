@@ -18,5 +18,7 @@ Collaboration & Business Alignment: Partnered with cross-functional teams to add
 Compliance & Security: Implemented stringent data security measures and ensured full compliance with GDPR and privacy regulations to protect sensitive user and transaction data.
 
 Documentation & Knowledge Sharing: Documented data pipelines, schema designs, and analysis methodologies comprehensively, enabling easy knowledge transfer and project scalability.
+
 Key Outcome: Demonstrated expertise in data engineering principles and analytics by transforming raw data into valuable insights, driving strategic decision-making and optimizing business processes.
+
 This project showcases the ability to design scalable data workflows, harness cloud technologies, and derive actionable insights, contributing to organizational growth and operational efficiency.
